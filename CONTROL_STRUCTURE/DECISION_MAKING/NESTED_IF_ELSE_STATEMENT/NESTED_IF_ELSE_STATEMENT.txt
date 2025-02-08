@@ -1,0 +1,22 @@
+## 21-40: Nested If-Else Statements
+
+21.Check whether a number is a prime number within a range.
+22.Find the largest number among n numbers using a nested if-else.
+23.Print all prime numbers in a range using nested loops.
+24.Find all the divisors of a number.
+25.Find the GCD and LCM of two numbers.
+26.Check if a number is a perfect number within a range.
+27.Check whether an integer is positive, negative, or zero.
+28.Determine the type of a triangle based on its angles.
+29.Find whether a number is a Fibonacci number within a range.
+30.Print all leap years within a given range.
+31.Check whether a string is a valid palindrome.
+32.Check for a specific pattern in a string using if-else.
+33.Check if a given day is a weekend or weekday.
+34.Check if a number is divisible by 7 or 11.
+35.Print prime numbers within a range using nested conditions.
+36.Identify if an alphabet character is uppercase, lowercase, or non-alphabet.
+37.Determine if a given number is a valid credit card number.
+38.Check if a given date is valid or invalid.
+39.Find the day of the week for a given date.
+40.Print multiplication tables for a given number using nested loops.
