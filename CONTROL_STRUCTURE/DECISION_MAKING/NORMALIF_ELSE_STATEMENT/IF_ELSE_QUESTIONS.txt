@@ -5,8 +5,7 @@
 3.Check whether a number is divisible by 3 and 5.
 4.Find the largest of three numbers.
 5.Check whether a number is a prime number.
-6.Check whether a year is a leap year.
-7.Find the greatest of four numbers.
+ 7.Find the greatest of four numbers.
 8.Check if a number is a palindrome.
 9.Check whether a character is a vowel or consonant.
 10.Find the smallest of three numbers.

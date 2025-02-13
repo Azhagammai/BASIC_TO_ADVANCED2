@@ -1,0 +1,22 @@
+61-80: For Loop Programs
+
+61.Print numbers from 1 to 10 using for loop.
+62.Print the multiplication table of a number using for loop.
+63.Calculate the factorial of a number using a for loop.
+64.Print Fibonacci series up to n terms using for loop.
+65.Sum of digits of a number using a for loop.
+66.Print prime numbers up to a given number using for loop.
+67.Reverse a number using for loop.
+68.Check whether a number is prime or not using a for loop.
+69.Calculate the sum of even numbers from 1 to n using a for loop.
+70.Calculate the sum of odd numbers from 1 to n using a for loop.
+71.Print a pyramid pattern using for loop.
+72.Print a reverse triangle pattern using for loop.
+73.Find the largest number in an array using a for loop.
+74.Print a series of squares (1, 4, 9, ...) using for loop.
+75.Count the number of even numbers in a range.	
+76.Print all prime numbers between two numbers.
+77.Find the sum of all elements in an array using a for loop.
+78.Calculate the average of an array using a for loop.
+79.Print a number pattern using for loop.
+80.Print Pascal’s triangle using nested for loops.

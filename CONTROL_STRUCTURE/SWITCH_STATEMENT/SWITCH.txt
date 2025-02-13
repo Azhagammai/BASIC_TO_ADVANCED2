@@ -1,0 +1,22 @@
+# 41-60: Switch Case Statements
+
+41.Implement a simple calculator using switch case.
+42.Convert a number to its word equivalent (1 to 10) using switch.
+43.Find the day of the week using switch statement.
+44.Convert a number to its Roman numeral equivalent using switch.
+45.Implement a basic menu-driven program using switch-case.
+46.Print all numbers from 1 to n in reverse using switch.
+47.Grade student marks using a switch-case statement.
+48.Perform simple arithmetic operations using switch.
+49.Convert temperature from Celsius to Fahrenheit or vice versa using switch.
+50.Find the number of days in a month using switch-case.
+51.Implement a simple banking system with switch-case.
+52.Determine the month name based on its number using switch-case.
+53.Calculate the area of different shapes using switch-case.
+54.Implement a basic calculator with multiple operations.
+55.Determine if a given character is a vowel or consonant using switch-case.
+56.Implement a simple menu system for shopping.
+57.Convert a time duration in minutes to hours and minutes.
+58.Implement a number to word converter (1-10) using switch.
+59.Implement a traffic light system using switch.
+60.Solve a quadratic equation using switch-case for the discriminant.
