@@ -1,0 +1,22 @@
+141-160: Other Complex Control Flow Statements
+
+141.Print a Fibonacci sequence using a recursive function.
+142.Implement a switch case that calculates tax based on income.
+143.Use a loop to generate prime numbers in a given range.
+144.Implement an input validation program with a loop.
+145.Check if a number is an Armstrong number recursively.
+146.Implement binary search in a sorted array.
+147.Implement linear search for a number in an array.
+148.Find the largest number using a method and return the result.
+149.Count the occurrence of each character in a string.
+150.Perform matrix multiplication using nested loops.
+151.Implement a stack data structure using control flow statements.
+152.Implement a queue using loops and conditional statements.
+153.Create a simple bank account with multiple operations.
+154.Implement a simple ticket reservation system.
+155.Write a program to calculate power using recursion.
+156.Implement recursive factorial calculation.
+157.Implement recursive Fibonacci sequence.
+158.Create a number guessing game with loops and conditions.
+159.Print a checkerboard pattern using nested loops.
+160.Implement a vending machine system using switch statements.

@@ -1,0 +1,21 @@
+# **1-20: Basic If-Else Statements :**
+
+1.Check whether a number is positive or negative.
+2.Check whether a number is even or odd.
+3.Check whether a number is divisible by 3 and 5.
+4.Find the largest of three numbers.
+5.Check whether a number is a prime number.
+7.Find the greatest of four numbers.
+8.Check if a number is a palindrome.
+9.Check whether a character is a vowel or consonant.
+10.Find the smallest of three numbers.
+11.Check if a number is prime or not using a simple loop.
+12.Check if a number is perfect or not.
+13.Find whether a number is Armstrong or not.
+14.Calculate the factorial of a number using recursion.
+15.Check whether a number is an automorphic number.
+16.Find if a number is a Fibonacci number.
+17.Determine if a number is a perfect square.
+18.Count the number of digits in a number.
+19.Check whether a string is a palindrome.
+20.Check if a string is an anagram of another string.

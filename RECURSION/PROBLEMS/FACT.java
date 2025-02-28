@@ -1,5 +1,5 @@
 package RECURSION.PROBLEMS;
-
+import java.util.*;
 
 public class FACT {
     static int factorial(int n){
@@ -8,8 +8,10 @@ public class FACT {
         }
         return n*factorial(n-1); // recursive
     }
+
     public static void main(String[] args) {
-        int number=5;
+        Scanner s=new Scanner(System.in);
+        int number=s.nextInt();
         System.out.println("The factorial of 5 is: "+factorial(number));
     }
 }

@@ -1,0 +1,22 @@
+101-120: Do-While Loop Programs
+
+101.Print numbers from 1 to 10 using do-while loop.
+102.Sum of all even numbers using do-while loop.
+103.Print all odd numbers in a range using do-while loop.
+104.Calculate the factorial of a number using do-while loop.
+105.Reverse a number using do-while loop.
+106.Count the number of digits in a number using do-while loop.
+107.Check if a number is prime using do-while loop.
+108.Find the GCD of two numbers using do-while loop.
+109.Print Fibonacci series up to n terms using do-while loop.
+110.Check if a string is a palindrome using do-while loop.
+111.Print a pattern of stars using do-while loop.
+112.Sum all the digits of a number using do-while loop.
+113.Reverse a string using do-while loop.
+114.Find the largest prime number in a given range using do-while.
+115.Print all numbers divisible by 5 within a range using do-while.
+116.Calculate the sum of squares of numbers in a range using do-while.
+117.Print the Fibonacci sequence up to a given limit using do-while.
+118.Check if a number is a perfect number using do-while loop.
+119.Find the Armstrong number in a range using do-while loop.
+120.Create a menu-driven program using a do-while loop.

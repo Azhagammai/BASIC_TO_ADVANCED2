@@ -1,0 +1,22 @@
+121-140: Nested Loops
+
+121.Print a multiplication table using nested loops.
+122.Print an inverted triangle pattern using nested loops.
+123.Print a pyramid pattern using nested loops.
+124.Print a diamond shape pattern using nested loops.
+125.Print a hollow square pattern using nested loops.
+126.Print a number triangle using nested loops.
+127.Check for prime numbers within a range using nested loops.
+128.Generate Pascal's Triangle using nested loops.
+129.Print a number pattern with asterisks using nested loops.
+130.Print all possible combinations of two arrays using nested loops.
+131.Create a matrix and perform operations like transpose using nested loops.
+132.Count the number of vowels and consonants in a string using nested loops.
+133.Create a multiplication matrix using nested loops.
+134.Print an alphabet pattern using nested loops.
+135.Find all prime numbers between two numbers using nested loops.
+136.Create a 2D array and initialize it with user input using nested loops.
+137.Find the diagonal elements of a matrix using nested loops.
+138.Create a number grid using nested loops.
+139.Create a star pattern like a Christmas tree using nested loops.
+140.Perform matrix addition using nested loops.

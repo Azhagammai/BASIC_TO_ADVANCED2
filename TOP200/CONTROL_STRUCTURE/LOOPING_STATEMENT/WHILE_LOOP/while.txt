@@ -1,0 +1,22 @@
+81-100: While Loop Programs
+
+81.Print numbers from 1 to 10 using while loop.
+82.Print all even numbers up to n using while loop.
+83.Calculate the factorial of a number using while loop.
+84.Reverse a number using while loop.
+85.Print Fibonacci series up to n terms using while loop.
+86.Sum of digits of a number using while loop.
+87.Print all odd numbers up to n using while loop.
+88.Find the sum of natural numbers using while loop.
+89.Count the number of digits in a number using while loop.
+90.Calculate the product of digits of a number using while loop.
+91.Find the largest prime number in a given range.
+92.Print all prime numbers up to n using a while loop.
+93.Find the greatest common divisor (GCD) using while loop.
+94.Implement a simple ATM menu using a while loop.
+95.Reverse a string using while loop.
+96.Sum all odd numbers in a range using while loop.
+97.Check if a number is prime using while loop.
+98.Find the factorial of a number using while loop.
+99.Print even numbers from a range using while loop.
+100.Find the sum of even and odd digits of a number.

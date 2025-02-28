@@ -1,0 +1,23 @@
+161-180: Advanced Control Flow Programs
+
+161.Create a simple text-based game using if-else and loops.
+162 .Build a password validation program with loops and conditions.
+163.Implement a Tic-Tac-Toe game using loops and conditions.
+164.Implement a simple file I/O program.
+165.Create a phonebook program with search functionality.
+166.Implement a ticket booking system with class and objects.
+167.Create a random number generator for a guessing game.
+168 .Build a simple calendar program using loops.
+169.Create a program that checks for valid email addresses.
+170 .Build a number encryption/decryption program.
+171.Create a weather app interface using control statements.
+172.Write a program for bubble sort.
+173.Implement insertion sort using loops.
+174.Perform quicksort on an array using recursion.
+175.Implement selection sort with a loop.
+176.Perform a binary search recursively.
+177.Create a class to manage a simple bank account.
+178.Write a program for linear search recursively.
+179.Implement depth-first search using a stack.
+180.Implement breadth-first search using a queue.
+
